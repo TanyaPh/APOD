@@ -1,4 +1,4 @@
-# Day 05 – Piscine .NET
+# Day 05 – Bootcamp .NET
 ### Per aspera ad astra
 
 # Contents
